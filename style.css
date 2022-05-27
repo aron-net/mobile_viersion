@@ -1,14 +1,14 @@
 /* Global Style */
 * {
-    margin: 0;
-    width: 99.5%;
-    background-image: url('./Image/Overlay.svg');
-    font-family: 'Roboto';
-    font-style: normal;
-    font-weight: 500;
-    font-size: 15px;
-    line-height: 20px;
-    color: #FFFFFF; 
+        margin: 0;
+        width: 99.5%;
+        background-image: url('./Image/Overlay.svg');
+        font-family: 'Roboto';
+        font-style: normal;
+        font-weight: 500;
+        font-size: 15px;
+        line-height: 20px;
+        color: #FFFFFF; 
 }
 
 /* Log */
