@@ -1,7 +1,7 @@
 ![](https://img.shields.io/badge/Microverse-blueviolet)
 
 # Portfolio: mobile version
-> Flexbox to place elements in the page
+> Creating mobile version
 
 ## Built With
 
