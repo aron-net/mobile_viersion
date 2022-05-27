@@ -11,15 +11,18 @@
 
 /* Log */
 .log {
-  width: 25%;
+  width: 85%;
   margin-left: 22px;
+  text-decoration: none;
+  font-size: 18x;
+  font-weight: bolder;
+  text-align: left;
+  color:#9390ff;
 }
 
 /* Icon-navigation */
 .icon-navigation {
   font-size: 25px;
-  border: 1px solid blue;
-  padding: 15;
 }
 
 /* Header and item navigation */
