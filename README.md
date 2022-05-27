@@ -9,31 +9,7 @@
 - CSS (Cascading Style Sheets)
 
 
-## Getting Started
-
-
-### To get a local copy up and running follow these simple example steps.
-
-### Prerequisites
--text editor
-
-### Setup
-
-### Install
-
-- clone repository
-- install the dependency
-- run the application
-
-### Usage
-
-### Run tests
-
-### Deployment
-
-
-
-## Author
+# Author
 
 👤 **Aaron Abraham**
 
