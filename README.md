@@ -1,7 +1,7 @@
 ![](https://img.shields.io/badge/Microverse-blueviolet)
 
 # Portfolio: mobile version
->configuration of linter with html and css files
+> Flexbox to place elements in the page
 
 ## Built With
 
